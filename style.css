@@ -1,0 +1,13 @@
+body {
+    background: orange;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+  }
+  
+  p {
+    color: red;
+  }
