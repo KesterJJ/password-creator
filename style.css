@@ -11,3 +11,14 @@ body {
   p {
     color: red;
   }
+
+  .formdesign {
+    padding: 20px;
+
+}
+
+.formdesign input {
+    padding: 10px;
+    border-radius: 10px;
+    
+}
